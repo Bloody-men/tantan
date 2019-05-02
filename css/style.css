@@ -185,7 +185,7 @@ a {
 }
 .qr{
 	position: relative;
-	width: 125px;
+	: 125px
 	height: 125px;
 	margin: 0 auto;
 	top: 50px;
