@@ -173,7 +173,6 @@ nav{
   display: flex;
   justify-content: space-around;
   align-items: flex-end;
-  padding: 2rem 0;
 }
 /*.evaluate-btn>a{
   width: 21px;
